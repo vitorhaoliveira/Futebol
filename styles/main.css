@@ -1,0 +1,43 @@
+
+.main__caixa {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 5px solid var(--branco); */
+}
+
+.main__conteudo {
+    margin: 0 50px;
+}
+
+.main__titulo {
+    font-family: var(--fonte-2);
+    margin: 0 0 40px 0;
+    font-weight: 300px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.main__texto {
+    text-indent: 20px;
+    text-align: cente;
+}
+
+.main__img {
+    width: 37rem;
+    border-radius: 10px;
+    border: 3px solid var(--branco);
+}
+
+.main {
+    display: flex;
+    background-color: var(--cor-3);
+    padding: 50px;
+    width: 74rem;
+    margin: 0 3%;
+    height: 26.5rem;
+    align-items: center;
+    justify-content: center;
+    /* border: 3px solid var(--branco); */
+    border-radius: 10px;
+}

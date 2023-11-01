@@ -1,0 +1,16 @@
+.main__img {
+    width: 27rem;
+    max-width: 100%;
+}
+
+body {
+    background-color: var(--cor-11);
+}
+
+.main {
+    background-color: var(--cor-9);
+}
+
+.header {
+    background-color: var(--cor-10);
+}

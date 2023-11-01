@@ -1,0 +1,28 @@
+/* .main__lista-item::before {
+    content: "•";
+} */
+
+.main__lista {
+    margin: 20px 0 0 0;
+}
+
+.main {
+    background-color: var(--cor-6);
+}
+
+.header {
+    background-color: var(--cor-7);
+}
+
+li {
+    margin: 10px 0 0 0;
+}
+
+body {
+    background-color: var(--cor-8);
+}
+
+.main__img {
+    width: 40rem;
+    max-width: 100%;
+}

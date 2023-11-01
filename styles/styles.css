@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Roboto:wght@300;400&display=swap');
+
+:root {
+    --cor-1: #2C35F0;
+    --cor-2: #4C4E70;
+    --cor-3: #020762;
+    --cor-4: #9B8C4F;
+    --cor-5: #F0C82B;
+    --cor-6: #9302FA;
+    --cor-7: #513B61;
+    --cor-8: #2F2933;
+    --cor-9: #DC0105;
+    --cor-10: #663838;
+    --cor-11: #332929;
+    --cor-12: #DBCE08;
+    --cor-13: #42412A; 
+    --cor-14: #33322B;
+    --cor-15: #00E506;
+    --cor-16: #2E4C2F;
+    --cor-17: #293329;
+    --cor-18: #00E5CB;
+    --cor-19: #2E4C49;
+    --cor-20: #293332;
+    --cor-21: #E50999;
+    --cor-22: #4C3143;
+    --cor-23: #332B30;
+    --branco: white;
+
+    --fonte-1: 'Roboto', sans-serif;
+    --fonte-2: 'Archivo Black', sans-serif;
+}
+
+body {
+    background-color: var(--cor-2);
+    font-family: var(--fonte-principal);
+    color: var(--branco);
+    font-family: var(--fonte-1);
+    font-size: 17px;
+}
+
+strong {
+    font-weight: bold;
+}

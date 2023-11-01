@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--cor-1);
+    padding: 25px 50px;
+    /* border: 3px solid white; */
+}
+
+.header__link {
+    margin: 0 12px;
+    text-decoration: none;
+    color: var(--branco);
+    font-family: var(--fonte-1);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-weight: 400px;
+}
+
+.header__titulo {
+    font-size: 30px;
+    font-weight: 400px;
+    font-family: var(--fonte-2);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.header__caixa {
+    display: flex;
+    align-items: center;
+}
+
+.header__img {
+    width: 50px;
+    margin-left: 30px;
+}
